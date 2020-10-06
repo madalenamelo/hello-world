@@ -3,7 +3,7 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Scanner;
 
-
+package url;
 public class URLExpSimple {
 
     
